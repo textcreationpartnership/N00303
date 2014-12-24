@@ -1,0 +1,116 @@
+#The child's portion: or The unseen glory of the children of God, asserted, and proved: together with several other sermons occasionally preached, and now published. / By Samuel Willard teacher of a church in Boston, New-England. ; [Five lines from Psalms]#
+
+##Willard, Samuel, 1640-1707.##
+The child's portion: or The unseen glory of the children of God, asserted, and proved: together with several other sermons occasionally preached, and now published. / By Samuel Willard teacher of a church in Boston, New-England. ; [Five lines from Psalms]
+Willard, Samuel, 1640-1707.
+
+##General Summary##
+
+**Links**
+
+[TCP catalogue](http://www.ota.ox.ac.uk/tcp/)  • 
+[HTML](http://tei.it.ox.ac.uk/tcp/Texts-HTML/free/N00/N00303.html)  • 
+[EPUB](http://tei.it.ox.ac.uk/tcp/Texts-EPUB/free/N00/N00303.epub)
+
+**Availability**
+
+This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+
+**Major revisions**
+
+1. __2005-02__ __TCP__ *Assigned for keying and markup*
+1. __2005-03__ __SPi Global (Manila)__ *Keyed and coded from Readex/Newsbank page images*
+1. __2005-04__ __Olivia Bottum__ *Sampled and proofread*
+1. __2005-04__ __Olivia Bottum__ *Text and markup reviewed and edited*
+1. __2005-10__ __pfs.__ *Batch review (QC) and XML conversion*
+
+##Content Summary##
+
+**Types of content**
+
+  * Oh, Mr. Jourdain, there is **prose** in there!
+
+There are 246 **ommitted** fragments! 
+ @__reason__ (246) : illegible (239), foreign (7)  •  @__resp__ (239) : #PDCC (239)  •  @__extent__ (239) : 1 letter (171), 3 letters (11), 2 letters (24), 1 span (6), 1 word (25), 5 letters (1), 4 letters (1)
+
+**Character listing**
+
+
+|Text|string(s)|codepoint(s)|
+|---|---|---|
+|Latin-1 Supplement|·|183|
+|General Punctuation|•…—|8226 8230 8212|
+|Geometric Shapes|▪◊|9642 9674|
+|CJKSymbolsandPunctuation|〈〉|12296 12297|
+
+##Tag Usage Summary##
+
+###Header Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__author__|2||
+|2.|__availability__|1||
+|3.|__biblFull__|1||
+|4.|__change__|5||
+|5.|__date__|7| @__when__ (1) : 2005-12 (1)|
+|6.|__editorialDecl__|1||
+|7.|__extent__|2||
+|8.|__idno__|7| @__type__ (7) : DLPS (1), TCP (1), STC (2), NOTIS (1), IMAGE-SET (1), EVANS-CITATION (1)|
+|9.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|10.|__label__|5||
+|11.|__langUsage__|1||
+|12.|__language__|1| @__ident__ (1) : eng (1)|
+|13.|__listPrefixDef__|1||
+|14.|__note__|5||
+|15.|__notesStmt__|2||
+|16.|__p__|11||
+|17.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|18.|__projectDesc__|1||
+|19.|__pubPlace__|2||
+|20.|__publicationStmt__|2||
+|21.|__publisher__|2||
+|22.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|23.|__seriesStmt__|1||
+|24.|__sourceDesc__|1||
+|25.|__term__|1||
+|26.|__textClass__|1||
+|27.|__title__|3||
+|28.|__titleStmt__|2||
+
+
+###Text Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__abbr__|1||
+|2.|__am__|1||
+|3.|__bibl__|7||
+|4.|__body__|2||
+|5.|__closer__|1||
+|6.|__date__|2||
+|7.|__desc__|246||
+|8.|__div__|7| @__type__ (7) : title_page (2), to_the_reader (1), sermon (4)|
+|9.|__epigraph__|4||
+|10.|__ex__|1||
+|11.|__expan__|1||
+|12.|__front__|2||
+|13.|__g__|1202| @__ref__ (1202) : char:EOLhyphen (1171), char:punc (28), char:EOLunhyphen (2), char:abque (1)|
+|14.|__gap__|246| @__reason__ (246) : illegible (239), foreign (7)  •  @__resp__ (239) : #PDCC (239)  •  @__extent__ (239) : 1 letter (171), 3 letters (11), 2 letters (24), 1 span (6), 1 word (25), 5 letters (1), 4 letters (1)|
+|15.|__head__|4||
+|16.|__hi__|1134| @__rend__ (1) : sup (1)|
+|17.|__item__|3||
+|18.|__list__|1||
+|19.|__p__|502| @__n__ (309) : 1 (102), 2 (101), 3 (52), 4 (28), 5 (15), 6 (7), 7 (4)|
+|20.|__pb__|233| @__facs__ (233) : tcp:000380_0000_0FA502B95FACB420 (1), tcp:000380_0001_0FA502BAAE0612F0 (1), tcp:000380_0002_0FA502BC511BDE18 (1), tcp:000380_0003_0FA502BCE9BB0778 (1), tcp:000380_0004_0FA502BDA7E63BC0 (1), tcp:000380_0005_0FA502BE7AB1C5A8 (1), tcp:000380_0006_0FA502BF2FFB9990 (1), tcp:000380_0007_0FA502BFE96DD1D8 (1), tcp:000380_0008_0FA502C156F1DB08 (1), tcp:000380_0009_0FA502C16A932F68 (1), tcp:000380_0010_0FA502C2B44B2178 (1), tcp:000380_0011_0FA502C323693F20 (1), tcp:000380_0012_0FA502C67A2CB340 (1), tcp:000380_0013_0FA502C7C4C252A0 (1), tcp:000380_0014_0FA502C82821DD60 (1), tcp:000380_0015_0FA502C8E6FB9D40 (1), tcp:000380_0016_0FA502C9A95B1CC8 (1), tcp:000380_0017_0FA502CA831F4D18 (1), tcp:000380_0018_0FA502CB6E92B6D8 (1), tcp:000380_0019_0FA502CCCF34F1C0 (1), tcp:000380_0020_0FA502CD65E74710 (1), tcp:000380_0021_0FA502D0FA658620 (1), tcp:000380_0022_0FA502D215DC40A0 (1), tcp:000380_0023_0FA502D2B02A1018 (1), tcp:000380_0024_0FA502D3766DA3B8 (1), tcp:000380_0025_0FA502D42D0223F8 (1), tcp:000380_0026_0FA502D4E6CBEA50 (1), tcp:000380_0027_0FA502D6797E6A10 (1), tcp:000380_0028_0FA502D781A226E0 (1), tcp:000380_0029_0FA502D7ECD789B8 (1), tcp:000380_0030_0FA502DBEF4B9AE0 (1), tcp:000380_0031_0FA502DD39335F20 (1), tcp:000380_0032_0FA502DDF53BCEC0 (1), tcp:000380_0033_0FA502DEAF217DA0 (1), tcp:000380_0034_0FA502DFA604BA20 (1), tcp:000380_0035_0FA502E11B48E4D0 (1), tcp:000380_0036_0FA502E1A9E839C8 (1), tcp:000380_0037_0FA502E2AB94D470 (1), tcp:000380_0038_0FA502E62C87EAE8 (1), tcp:000380_0039_0FA502E777DF48A0 (1), tcp:000380_0040_0FA502E7B8EBF1F8 (1), tcp:000380_0041_0FA502E90C057808 (1), tcp:000380_0042_0FA502E931F7B3C8 (1), tcp:000380_0043_0FA502E9F22B3B30 (1), tcp:000380_0044_0FA502EADBDF4100 (1), tcp:000380_0045_0FA502EB69908890 (1), tcp:000380_0046_0FA502EC5A996ED8 (1), tcp:000380_0047_0FA502ECEFCDBB60 (1), tcp:000380_0048_0FA502EDA594BA40 (1), tcp:000380_0049_0FA502EE668776E0 (1), tcp:000380_0050_0FA502F26A1D4FA0 (1), tcp:000380_0051_0FA502F3B62CAED0 (1), tcp:000380_0052_0FA502F51625D0A8 (1), tcp:000380_0053_0FA502F5271F2AD0 (1), tcp:000380_0054_0FA502F62BFC4CB8 (1), tcp:000380_0055_0FA502F6D42AF6C0 (1), tcp:000380_0056_0FA502F7D0583058 (1), tcp:000380_0057_0FA502F82D46C260 (1), tcp:000380_0058_0FA502F9388515F0 (1), tcp:000380_0059_0FA502FA90150508 (1), tcp:000380_0060_0FA502FB2539A9C0 (1), tcp:000380_0061_0FA502FEC31922F8 (1), tcp:000380_0062_0FA502FFF49CD388 (1), tcp:000380_0063_0FA50300676EE110 (1), tcp:000380_0064_0FA5030154877A58 (1), tcp:000380_0065_0FA5030241ACA278 (1), tcp:000380_0066_0FA503039AA5B760 (1), tcp:000380_0067_0FA5030437F593A8 (1), tcp:000380_0068_0FA50304E7B29518 (1), tcp:000380_0069_0FA50305CA318328 (1), tcp:000380_0070_0FA50306669E2F48 (1), tcp:000380_0071_0FA5030A52CC9B58 (1), tcp:000380_0072_0FA5030B946C0ED0 (1), tcp:000380_0073_0FA5030BA95F3B78 (1), tcp:000380_0074_0FA5030C6C960448 (1), tcp:000380_0075_0FA5030D4D7023C8 (1), tcp:000380_0076_0FA5030EB05DBAA8 (1), tcp:000380_0077_0FA5030F8DFE2F10 (1), tcp:000380_0078_0FA5031027FA7770 (1), tcp:000380_0079_0FA503110603AC40 (1), tcp:000380_0080_0FA50311AA302FA8 (1), tcp:000380_0081_0FA5031284D90B08 (1), tcp:000380_0082_0FA5031326FB4750 (1), tcp:000380_0083_0FA503166AC9F6D8 (1), tcp:000380_0084_0FA50317EC84C638 (1), tcp:000380_0085_0FA503195E87E330 (1), tcp:000380_0086_0FA5031A17B54660 (1), tcp:000380_0087_0FA5031AABC28B90 (1), tcp:000380_0088_0FA5031C1A578F90 (1), tcp:000380_0089_0FA5031C2DAB1210 (1), tcp:000380_0090_0FA5031D1333F460 (1), tcp:000380_0091_0FA5031DA9BFCA38 (1), tcp:000380_0092_0FA5031E72E9C488 (1), tcp:000380_0093_0FA5031F72E196C8 (1), tcp:000380_0094_0FA50324267B4D98 (1), tcp:000380_0095_0FA5032541239488 (1), tcp:000380_0096_0FA50325F926AD20 (1), tcp:000380_0097_0FA4FE1AF49D6BE0 (1), tcp:000380_0098_0FA4FE12473BDA38 (1), tcp:000380_0099_0FA4FE13D87A8E48 (1), tcp:000380_0100_0FA4FE14C083C660 (1), tcp:000380_0101_0FA4FE1524941ED8 (1), tcp:000380_0102_0FA4FE15F7F4AD30 (1), tcp:000380_0103_0FA4FE16A75313E0 (1), tcp:000380_0104_0FA4FE1763D96228 (1), tcp:000380_0105_0FA4FE1821C36EC0 (1), tcp:000380_0106_0FA4FE1C7AACFF00 (1), tcp:000380_0107_0FA4FE1DCD2BE320 (1), tcp:000380_0108_0FA4FE1E2D7471B0 (1), tcp:000380_0109_0FA4FE1EF0437FD0 (1), tcp:000380_0110_0FA4FE1FDB8C1408 (1), tcp:000380_0111_0FA4FE206CD16B50 (1), tcp:000380_0112_0FA4FE215CDDA600 (1), tcp:000380_0113_0FA4FE252E5538A8 (1), tcp:000380_0114_0FA4FE26205EB288 (1), tcp:000380_0115_0FA4FE266CD02330 (1), tcp:000380_0116_0FA4FE272B04B9D0 (1), tcp:000380_0117_0FA4FE27E47B3008 (1), tcp:000380_0118_0FA4FE28A19D9358 (1), tcp:000380_0119_0FA4FE2D6CF8AE18 (1), tcp:000380_0120_0FA4FE2E4430E810 (1), tcp:000380_0121_0FA4FE2ECABCE2D8 (1), tcp:000380_0122_0FA4FE2F67B5B9C8 (1), tcp:000380_0123_0FA4FE30235096A0 (1), tcp:000380_0124_0FA4FE30F7D58888 (1), tcp:000380_0125_0FA4FE32855CD168 (1), tcp:000380_0126_0FA4FE3321DCA7C8 (1), tcp:000380_0127_0FA4FE362A15BA38 (1), tcp:000380_0128_0FA4FE378187E438 (1), tcp:000380_0129_0FA4FE3861967ED8 (1), tcp:000380_0130_0FA4FE386857F120 (1), tcp:000380_0131_0FA4FE392D0E9778 (1), tcp:000380_0132_0FA4FE39E1BB0280 (1), tcp:000380_0133_0FA4FE3AB186F868 (1), tcp:000380_0134_0FA4FE3B613309E8 (1), tcp:000380_0135_0FA4FE3FE67CD820 (1), tcp:000380_0136_0FA4FE40D83FFA30 (1), tcp:000380_0137_0FA4FE41657A8B20 (1), tcp:000380_0138_0FA4FE42254FE528 (1), tcp:000380_0139_0FA4FE43238E0D00 (1), tcp:000380_0140_0FA4FE44704544F0 (1), tcp:000380_0141_0FA4FE4521F62720 (1), tcp:000380_0142_0FA4FE4887615010 (1), tcp:000380_0143_0FA4FE49CE208FD8 (1), tcp:000380_0144_0FA4FE4A82F83930 (1), tcp:000380_0145_0FA4FE4B243F9638 (1), tcp:000380_0146_0FA4FE4BE325FC60 (1), tcp:000380_0147_0FA4FE4D8ADCEDF8 (1), tcp:000380_0148_0FA4FE4EE933C290 (1), tcp:000380_0149_0FA4FE4FA84AA6C8 (1), tcp:000380_0150_0FA4FE525B98F4E8 (1), tcp:000380_0151_0FA4FE534FC25128 (1), tcp:000380_0152_0FA4FE536930C108 (1), tcp:000380_0153_0FA4FE54261275C0 (1), tcp:000380_0154_0FA4FE54F1CA2B88 (1), tcp:000380_0155_0FA4FE57B9196E80 (1), tcp:000380_0156_0FA4FE59068F4688 (1), tcp:000380_0157_0FA4FE5A32A3D630 (1), tcp:000380_0158_0FA4FE5AF27FE6F8 (1), tcp:000380_0159_0FA4FE5BA1EAA1E8 (1), tcp:000380_0160_0FA4FE5C8AA3BD58 (1), tcp:000380_0161_0FA4FE5D215470B0 (1), tcp:000380_0162_0FA4FE6072EF2B58 (1), tcp:000380_0163_0FA4FE61C6FF3AB0 (1), tcp:000380_0164_0FA4FE62B28E2380 (1), tcp:000380_0165_0FA4FE63236C5FE8 (1), tcp:000380_0166_0FA4FE63E2C035B0 (1), tcp:000380_0167_0FA4FE64BB077B10 (1), tcp:000380_0168_0FA4FE65622F7ED0 (1), tcp:000380_0169_0FA4FE6655C4AD78 (1), tcp:000380_0170_0FA4FE696958A7E0 (1), tcp:000380_0171_0FA4FE6AAB0F6448 (1), tcp:000380_0172_0FA4FE6BF5CCA8C8 (1), tcp:000380_0173_0FA4FE6C28B3C4F0 (1), tcp:000380_0174_0FA4FE6D3341A0B8 (1), tcp:000380_0175_0FA4FE6DA69EC3B8 (1), tcp:000380_0176_0FA4FE6EA3C1F228 (1), tcp:000380_0177_0FA4FE6F214C4AC0 (1), tcp:000380_0178_0FA4FE721CDCCB40 (1), tcp:000380_0179_0FA4FE736C1A4498 (1), tcp:000380_0180_0FA4FE74B29927D0 (1), tcp:000380_0181_0FA4FE75330E7EE0 (1), tcp:000380_0182_0FA4FE75EC2233D8 (1), tcp:000380_0183_0FA4FE76AA50DAF0 (1), tcp:000380_0184_0FA4FE7762D2EAC0 (1), tcp:000380_0185_0FA4FE7830499668 (1), tcp:000380_0186_0FA4FE7BB33859B8 (1), tcp:000380_0187_0FA4FE7D02F64918 (1), tcp:000380_0188_0FA4FE7E6FBA4300 (1), tcp:000380_0189_0FA4FE7EF2F0C580 (1), tcp:000380_0190_0FA4FE7FA32FDFA0 (1), tcp:000380_0191_0FA4FE806A982108 (1), tcp:000380_0192_0FA4FE8126AF7CF8 (1), tcp:000380_0193_0FA4FE8284C3D940 (1), tcp:000380_0194_0FA4FE82A21B1FF8 (1), tcp:000380_0195_0FA4FE83AA491E78 (1), tcp:000380_0196_0FA4FE8421A66910 (1), tcp:000380_0197_0FA4FE879DF7EBB8 (1), tcp:000380_0198_0FA4FE88A9C64E30 (1), tcp:000380_0199_0FA4FE8964F3F218 (1), tcp:000380_0200_0FA4FE8A41F8E5E8 (1), tcp:000380_0201_0FA4FE8BE0136918 (1), tcp:000380_0202_0FA4FE8C9585BC30 (1), tcp:000380_0203_0FA4FE8D243103C0 (1), tcp:000380_0204_0FA4FE8DE4532DD8 (1), tcp:000380_0205_0FA4FE90C97A6440 (1), tcp:000380_0206_0FA4FE91CA21B830 (1), tcp:000380_0207_0FA4FE92694648C0 (1), tcp:000380_0208_0FA4FE9353C17308 (1), tcp:000380_0209_0FA4FE94EF3C1250 (1), tcp:000380_0210_0FA4FE956CBE0290 (1), tcp:000380_0211_0FA4FE96238D45C8 (1), tcp:000380_0212_0FA4FE9712A905F8 (1), tcp:000380_0213_0FA4FE9AAB8357E0 (1), tcp:000380_0214_0FA4FE9C14533770 (1), tcp:000380_0215_0FA4FE9D20504720 (1), tcp:000380_0216_0FA4FE9DA6625AE0 (1), tcp:000380_0217_0FA4FE9E7721D0B8 (1), tcp:000380_0218_0FA4FE9F2A2CC0C0 (1), tcp:000380_0219_0FA4FE9FE796AC90 (1), tcp:000380_0220_0FA4FEA0A7FA2D38 (1), tcp:000380_0221_0FA4FEA5432822D0 (1), tcp:000380_0222_0FA4FEA62C31E378 (1), tcp:000380_0223_0FA4FEA6A8FB7C50 (1), tcp:000380_0224_0FA4FEA764CD5748 (1), tcp:000380_0225_0FA4FEA829110BD8 (1), tcp:000380_0226_0FA4FEA8E60E89D8 (1), tcp:000380_0227_0FA4FEAA41EEB0A0 (1), tcp:000380_0228_0FA4FEAAB9B02870 (1), tcp:000380_0229_0FA4FEAB26CECC98 (1), tcp:000380_0230_0FA4FEABE7950A98 (1), tcp:000380_0231_0FA4FEAECF7BC690 (1), tcp:000380_0232_0FA4FEAFB2737F30 (1)  •  @__rendition__ (1) : simple:additions (1)  •  @__n__ (226) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 49 (1), 50 (1), 51 (1), 52 (1), 53 (1), 54 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 68 (1), 69 (1), 70 (1), 71 (1), 72 (1), 73 (1), 74 (1), 75 (1), 76 (1), 77 (1), 78 (1), 79 (1), 80 (1), 81 (1), 82 (1), 83 (1), 84 (1), 85 (1), 86 (1), 87 (1), 88 (1), 89 (1), 90 (1), 91 (1), 92 (1), 93 (1), 94 (1), 95 (1), 96 (1), 97 (1), 98 (1), 99 (1), 100 (1), 101 (1), 102 (1), 103 (2), 104 (1), 105 (1), 106 (2), 107 (1), 108 (1), 109 (1), 110 (1), 111 (1), 112 (1), 113 (1), 114 (1), 115 (1), 116 (1), 117 (1), 118 (1), 119 (1), 120 (1), 121 (1), 122 (1), 123 (1), 124 (1), 125 (1), 126 (1), 127 (1), 128 (1), 129 (1), 130 (1), 131 (1), 132 (1), 133 (1), 134 (1), 135 (1), 136 (1), 137 (1), 138 (1), 139 (1), 140 (1), 141 (1), 142 (1), 143 (1), 144 (1), 145 (1), 146 (1), 147 (1), 148 (1), 149 (1), 150 (1), 151 (1), 152 (1), 153 (1), 154 (1), 155 (1), 156 (1), 157 (1), 158 (1), 159 (1), 160 (1), 161 (1), 162 (1), 163 (1), 164 (1), 165 (1), 166 (1), 167 (1), 168 (1), 169 (1), 170 (1), 171 (1), 172 (1), 173 (1), 174 (1), 175 (1), 176 (1), 177 (1), 178 (1), 179 (1), 180 (1), 181 (1), 182 (1), 183 (1), 184 (1), 185 (1), 186 (1), 187 (1), 188 (1), 189 (1), 190 (1), 191 (1), 192 (1), 193 (1), 194 (1), 195 (1), 196 (1), 197 (1), 199 (1), 200 (1), 201 (1), 202 (1), 204 (1), 205 (1), 207 (1), 208 (1), 209 (1), 210 (1), 211 (1), 212 (1), 213 (1), 214 (1), 215 (1), 216 (1), 217 (1), 218 (1), 219 (1), 220 (1), 221 (1), 222 (1), 223 (1), 224 (1), 225 (1), 226 (1), 227 (1)|
+|21.|__q__|10||
+|22.|__signed__|1||
+|23.|__text__|2| @__xml:lang__ (2) : eng (0)|
+|24.|__trailer__|4||
